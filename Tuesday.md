@@ -59,3 +59,29 @@ More than choosing, we need to take in consideration the advantages and disadvan
 ---
 
 Yes, a Java first compile into Bytecode which JRE can understand. ByteCode is then **interpreted** by the JVM making it as interpreted language too.
+
+</br>
+
+### **Exercise Pseudocode currency converter**
+---
+
+Paragraph:
+
+User inputs amount  then system has to Save amount, then get price from (Bitcoin web database: coinbase, binance, crypto.com) then multiply amount with BTC price then show tota, warn the user ‘the price might change in the following 2 min’, reset after 2 mins. 
+
+</br>
+
+1-Start
+
+2-User  <-- INPUT amount
+
+3-Amount  <--  GET
+
+4-BTC price <--  GET FROM (Bitcoin web database: coinbase, binance, crypto.com)
+
+5-SHOW <--  Total  <-- WARN {Price might change in 2 mins and has to start over again}
+
+6-IF 2 mins exceed <-- RESET
+
+8-END
+
