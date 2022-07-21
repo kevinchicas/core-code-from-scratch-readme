@@ -2,7 +2,7 @@
 
 ### **<center> Week 1</center>**
 
-[Tuesday](core-code-from-scratch-readme/Tuesday.md) 
+[Tuesday](Tuesday.md) 
 
 
 ### **<center> Week 2</center>**
