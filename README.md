@@ -5,7 +5,7 @@
 
 
 
-## What's the Difference?
+## **What's the Difference?**
 
 When we need a source code converted in to a machine code before it can run, there are 2 ways to do this: 
  
@@ -20,11 +20,12 @@ Is when you have a source code and you use a compiler to convert it to machine c
  </center>
 <br />
 
-##  What language should I use?
+##  **What language should I use?**
+---
 More than choosing, we need to take in consideration the advantages and disadvantages of each. 
 
 
-**<center> 1. Compiled:**</center>
+### **<center> 1. Compiled:**</center>
 
  **Advantages**  
 <ul>
@@ -41,14 +42,12 @@ More than choosing, we need to take in consideration the advantages and disadvan
   <li>Not cross-platform</li>
 </ul>
 
-**<center>2. Interpreted:**</center>
+### **<center>2. Interpreted:**</center>
 **Advantages** 
 <ul>
   <li>Tend to be more flexible, cross-platform</li>
   <li>Simpler to test</li>
 </ul>
-
-
 
 **Disadvantages**
 
@@ -57,7 +56,11 @@ More than choosing, we need to take in consideration the advantages and disadvan
   <li>Execution speed compared to compiled languages</li>
 </ul>
 
+</br>
 
+## **Is Java compiled or interpreted, or both?**
+---
 
+Yes, a Java first compile into Bytecode which JRE can understand. ByteCode is then **interpreted** by the JVM making it as interpreted language too.
 
 
