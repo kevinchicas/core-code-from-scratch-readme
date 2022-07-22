@@ -2,7 +2,7 @@
 
 ### **<center> Week 1</center>**
 
-[Tuesday] (Week 1/Tuesday.md)
+[Tuesday](Week1.md/Thursday.md)
 
 
 ### **<center> Week 2</center>**
