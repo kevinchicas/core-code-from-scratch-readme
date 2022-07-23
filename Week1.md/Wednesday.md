@@ -17,5 +17,13 @@ This is the way a converted from decimal to binary
 
 
 *<center> <h2> MIPS exercise </h2> </center>*
-
+```assembly
+ .data
+	      myname: .asciiz "\nKevin Chicas\n"
+  .text
+	      main:
+              li $v0, 4
+              la $a0, myname
+              syscall
+```
 ---
