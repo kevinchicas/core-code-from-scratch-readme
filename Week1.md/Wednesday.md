@@ -17,6 +17,9 @@ This is the way a converted from decimal to binary
 
 
 *<center> <h2> MIPS exercise </h2> </center>*
+
+Display name excersice
+
 ```assembly
  .data
 	      myname: .asciiz "\nKevin Chicas\n"
@@ -26,6 +29,7 @@ This is the way a converted from decimal to binary
               la $a0, myname
               syscall
 ```
+Program that adds any two given numbers provided by the user
 
 ```assembly
 .data
