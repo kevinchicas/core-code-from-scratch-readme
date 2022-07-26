@@ -1,6 +1,7 @@
 *<center> <h2> Print special numbers/Exercise </h2> </center>*
 
 ```assembly
+
 for (let i = 1; i <= 100; i++) 
   {
     if (i % 2 == 0)
@@ -8,8 +9,9 @@ for (let i = 1; i <= 100; i++)
     console.log(i);
     }
   }
-  
-´´´
+  ```
+
+
 
 ---
 
