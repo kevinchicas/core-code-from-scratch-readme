@@ -5,12 +5,15 @@
 - [Tuesday](Week1.md/Tuesday.md)
 - [Wednesday](Week1.md/Wednesday.md)
 - [Thursday](Week1.md/Thursday.md)
-- [Friday Test](Week1.md/Friday.md)
+
 
 
 ### **<center> Week 2</center>**
 
-
+- [Monday](Week2.md/Tuesday.md)
+- [Tuesday](Week2.md/Tuesday.md)
+- [Wednesday](Week2.md/Wednesday.md)
+- [Thursday](Week2.md/Thursday.md)
 
 ### **<center> Week 3</center>**
 
