@@ -54,4 +54,18 @@ i++;
 
 *<center> <h2> Bad Code 2/Exercise </h2> </center>*
 
+```assembly
+var n = 100;
+
+if (n == 100) {
+  console.log('This is a special number!');
+}
+else if (n < 1000 && n % 10 == 0 && n !=100){
+console.log('This number is almost special');}
+
+else {
+  console.log('Just a regular number');
+}
+```
+
 ---
