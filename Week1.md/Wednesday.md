@@ -5,8 +5,6 @@ My date of birth is March 13th, 1996.
 
 This is the way a converted from decimal to binary
 
-<img src="Week1.md/Captura.jpg.JPG"/>
-
 [![Captura.jpg](https://i.postimg.cc/xjL7MgxL/Captura.jpg)](https://postimg.cc/QVx0rgrM)
 
 13 = 1101
