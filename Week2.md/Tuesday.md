@@ -16,5 +16,11 @@ function multiply(a, b){
 ASCII Total Excersice
 ---
 ```assembly
-
+function uniTotal (str) {
+  let result = 0;
+    for (let i = 0, length = str.length; i < length; i++) {
+    result += str[i].charCodeAt();
+  }
+  return result;
+}
 ```
