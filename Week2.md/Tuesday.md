@@ -11,3 +11,10 @@ function multiply(a, b){
 ```
 
 [![Multiply-kata.jpg](https://i.postimg.cc/tCwxFKL9/Multiply-kata.jpg)](https://postimg.cc/YhN0HsrP)
+
+
+ASCII Total Excersice
+---
+```assembly
+
+```
